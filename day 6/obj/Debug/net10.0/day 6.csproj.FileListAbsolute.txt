@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\day 6\bin\Debug\net10.0\day 6.exe
+C:\Users\Laptop\Desktop\day 6\bin\Debug\net10.0\day 6.deps.json
+C:\Users\Laptop\Desktop\day 6\bin\Debug\net10.0\day 6.runtimeconfig.json
+C:\Users\Laptop\Desktop\day 6\bin\Debug\net10.0\day 6.dll
+C:\Users\Laptop\Desktop\day 6\bin\Debug\net10.0\day 6.pdb
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.dll
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\refint\day 6.dll
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.pdb
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\day 6.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\day 6\obj\Debug\net10.0\ref\day 6.dll
